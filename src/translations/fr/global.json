@@ -1,0 +1,23 @@
+{
+    "header":{
+        "inicio":"Début",
+        "info":"Information",
+        "precio":"Prix",
+        "nosotros":"Nous",
+        "idioma":"Langage"
+    },
+    "body":{
+        "content1":"Obtenez l'application et",
+        "content2":"Commencez à vous entraîner depuis chez vous !",
+        "desc":"plus facile que jamais...",
+        "devices":"Disponible sur Androïd et IOS",
+        "download":"Télécharger maintenant "
+    },
+    "body2":{
+        "title1":"Une application incroyable peut changer votre",
+        "title2":"Expérience quotidienne de l'exercice"
+    },
+    "pricing":{
+        "title":"Utilisation de la technologie de reconnaissance"
+    }
+}

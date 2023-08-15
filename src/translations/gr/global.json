@@ -1,0 +1,23 @@
+{
+    "header":{
+        "inicio":"Start",
+        "info":"Information",
+        "precio":"Preis",
+        "nosotros":"Uns",
+        "idioma":"Sprache"
+    },
+    "body":{
+        "content1":"Holen Sie sich die App und",
+        "content2":"Beginnen Sie mit dem Training von zu Hause aus!",
+        "desc":"einfacher denn je...",
+        "devices":"Verfügbar für Android und IOS",
+        "download":"Jetzt downloaden"
+    },
+    "body2":{
+        "title1":"Eine erstaunliche App kann Ihr Leben verändern",
+        "title2":"tägliche Erfahrung beim Training"
+    },
+    "pricing":{
+        "title":"Einsatz von Erkennungs technologie"
+    }
+}

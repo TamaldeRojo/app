@@ -1,0 +1,23 @@
+{
+    "header":{
+        "inicio":"Inicio",
+        "info":"Información",
+        "precio":"Precios",
+        "nosotros":"Nosotros",
+        "idioma":"Idioma"
+    },
+    "body":{
+        "content1":"Consigue la App y",
+        "content2":"Empieza a entrenar desde tu casa!",
+        "desc":"Más fácil que nunca...",
+        "devices":"Disponible en Android e IOS",
+        "download":"Descarga Ahora"
+    },
+    "body2":{
+        "title1":"Una increíble app puede cambiar tu ",
+        "title2":"Experiencia diaria ejercitandote"
+    },
+    "pricing":{
+        "title":"Utilizando tecnologia de reconocimiento"
+    }
+}

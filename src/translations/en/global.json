@@ -1,0 +1,23 @@
+{
+    "header":{
+        "inicio":"Menu",
+        "info":"Information",
+        "precio":"Pricing",
+        "nosotros":"Us",
+        "idioma":"Language"
+    },
+    "body":{
+        "content1":"Get the App and",
+        "content2":"Start training from your home",
+        "desc":"More easy than ever...",
+        "devices":"Available for Android and IOS",
+        "download":"Download Now"
+    },
+    "body2":{
+        "title1":"An Amazing App Can Change Your Daily Life",
+        "title2":"Work Out Experience"
+    },
+    "pricing":{
+        "title":"Using recognition technology"
+    }
+}
