@@ -5,7 +5,7 @@ function CenterMenu() {
     const liStyle = "mr-[3rem] hover:cursor-pointer"
     const [t,i18n] = useTranslation("global");
   return (
-    <div className='menu absolute md:flex md:static md:items-center md:opacity-100 opacity-0' >
+    <div className='hidden menu absolute md:flex md:static md:items-center md:opacity-100 opacity-0' >
         <ul className='flex w-[100%] justify-between'>
             <li className={liStyle}><a href=''>{t("header.inicio")}</a></li>
             <li className={liStyle}><a href='#body2'>{t("header.info")}</a></li>
