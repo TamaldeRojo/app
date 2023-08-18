@@ -8,21 +8,21 @@ function Us() {
             avatar: "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg",
             name: "Alan Erives",
             title: "Mobile Dev and Frontend Designer",
-            desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
+            desc: "alanerives08@gmail.com",
             linkedin: "javascript:void(0)"
         },
         {
             avatar: "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg",
             name: "Josue Medina",
             title: "Backend Dev and Hardware Dev",
-            desc: t("us.descJosue"),
+            desc: "josue.medina9991@gmail.com",
             linkedin: "javascript:void(0)"
         },
         {
             avatar: "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg",
             name: "Hugo Alvidrez",
             title: "Designer and Administrative Manager",
-            desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
+            desc: "hugoalvidrez309@gmail.com",
             linkedin: "javascript:void(0)"
         }
     ]
