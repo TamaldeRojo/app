@@ -17,7 +17,7 @@ function Body() {
             <div>
                 <span className='md:text-[13px] text-[10px]'>{t("body.devices")}</span>
                 <button className={buttonStyle} src>
-                   <a href='https://www.youtube.com/watch?v=CUGMZlvrR4c'> {t("body.download")}</a>
+                   <a href=''> {t("body.download")}</a>
                 </button>
             </div>
         </div>

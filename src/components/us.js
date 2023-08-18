@@ -5,21 +5,21 @@ function Us() {
     const [t] = useTranslation("global");
     const team = [
         {
-            avatar: "https://web-movefit.onrender.com/imgs/alanDis.jpeg",
+            avatar: "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg",
             name: "Alan Erives",
             title: "Mobile Dev and Frontend Designer",
             desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
             linkedin: "javascript:void(0)"
         },
         {
-            avatar: "https://web-movefit.onrender.com/imgs/josueDiss.jpeg",
+            avatar: "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg",
             name: "Josue Medina",
             title: "Backend Dev and Hardware Dev",
             desc: t("us.descJosue"),
             linkedin: "javascript:void(0)"
         },
         {
-            avatar: "https://web-movefit.onrender.com/imgs/hugoDis.jpeg",
+            avatar: "https://t4.ftcdn.net/jpg/05/49/98/39/360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg",
             name: "Hugo Alvidrez",
             title: "Designer and Administrative Manager",
             desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
