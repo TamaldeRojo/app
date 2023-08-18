@@ -18,6 +18,13 @@
         "title2":"tägliche Erfahrung beim Training"
     },
     "pricing":{
-        "title":"Einsatz von Erkennungs technologie"
+        "title":"Einsatz von Erkennungstechnologie zur Trainingserkennung und -verbesserung"
+    },
+    "us":{
+        "title":"Das Entwicklungsteam",
+        "bis":"Utch bis-Studenten entwickelten gemeinsam ein eingebettetes System",
+        "descAlan":"",
+        "descJosue":"Mein Ziel ist es, FullStack-Entwickler zu werden, das war nur ein Schritt nach vorne",
+        "descHugo":""
     }
 }

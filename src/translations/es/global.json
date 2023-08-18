@@ -18,6 +18,13 @@
         "title2":"Experiencia diaria ejercitandote"
     },
     "pricing":{
-        "title":"Utilizando tecnologia de reconocimiento"
+        "title":"Utilizando tecnologia de reconocimiento para la deteccion de ejercicios y su mejoramiento"
+    },
+    "us":{
+        "title":"El equipo encargado del desarrollo",
+        "bis":"Estudiantes de la utch bis desarrollaron juntos un sistema embebido",
+        "descAlan":"",
+        "descJosue":"Apunto a ser desarrollador FullStack, este solo fue un paso hacia adelante",
+        "descHugo":""
     }
 }

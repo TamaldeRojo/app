@@ -18,6 +18,13 @@
         "title2":"Work Out Experience"
     },
     "pricing":{
-        "title":"Using recognition technology"
+        "title":"Using recognition technology to improve the way you work out"
+    },
+    "us":{
+        "title":"The development team",
+        "bis":"BIS Students developt a embedded system",
+        "descAlan":"",
+        "descJosue":"I aim to be a FullStack developer, this was just a step forward",
+        "descHugo":""
     }
 }

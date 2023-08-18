@@ -1,24 +1,25 @@
 import React from 'react'
+import {useTranslation} from "react-i18next"
 
 function Us() {
-
+    const [t] = useTranslation("global");
     const team = [
         {
-            avatar: "https://images.unsplash.com/photo-1511485977113-f34c92461ad9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=faces&fit=crop&h=200&w=200&ixid=eyJhcHBfaWQiOjE3Nzg0fQ",
+            avatar: "https://web-movefit.onrender.com/imgs/alanDis.jpeg",
             name: "Alan Erives",
             title: "Mobile Dev and Frontend Designer",
             desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
             linkedin: "javascript:void(0)"
         },
         {
-            avatar: "https://api.uifaces.co/our-content/donated/xZ4wg2Xj.jpg",
+            avatar: "https://web-movefit.onrender.com/imgs/josueDiss.jpeg",
             name: "Josue Medina",
             title: "Backend Dev and Hardware Dev",
-            desc: "Apunto a ser desarrollador FullStack, este solo fue un paso hacia adelante",
+            desc: t("us.descJosue"),
             linkedin: "javascript:void(0)"
         },
         {
-            avatar: "https://randomuser.me/api/portraits/women/79.jpg",
+            avatar: "https://web-movefit.onrender.com/imgs/hugoDis.jpeg",
             name: "Hugo Alvidrez",
             title: "Designer and Administrative Manager",
             desc: "Lorem Ipsum is simply dummy text of the printing and typesettin industry.",
@@ -28,14 +29,14 @@ function Us() {
 
     return (
         <section className="py-14 bg-[#C1FCe2] precio flex flex-row gap-[20%] items-center justify-start px-[5rem]  
-        h-[60rem] pt-[18rem] mt-[-15rem] relative z-[0] ">
+        h-[60rem] pt-[18rem] mt-[-15rem] relative z-[0] " id='us'>
             <div className="max-w-screen-xl mx-auto px-4 text-center md:px-8">
                 <div className="max-w-xl mx-auto">
                     <h3 className="text-gray-800 text-3xl font-semibold sm:text-4xl">
-                        El equipo encargado del desarrollo
+                        {t("us.title")}
                     </h3>
                     <p className="text-gray-600 mt-3">
-                        Estudiantes de la utch bis desarrollaron juntos un sistema embebido
+                        {t("us.bis")}
                     </p>
                 </div>
                 <div className="mt-12">

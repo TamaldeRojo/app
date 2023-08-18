@@ -7,10 +7,10 @@ function CenterMenu() {
   return (
     <div className='menu absolute md:flex md:static md:items-center md:opacity-100 opacity-0' >
         <ul className='flex w-[100%] justify-between'>
-            <li className={liStyle}>{t("header.inicio")}</li>
-            <li className={liStyle}>{t("header.info")}</li>
-            <li className={liStyle}>{t("header.precio")}</li>
-            <li className={liStyle}>{t("header.nosotros")}</li>
+            <li className={liStyle}><a href=''>{t("header.inicio")}</a></li>
+            <li className={liStyle}><a href='#body2'>{t("header.info")}</a></li>
+            <li className={liStyle}><a href='#precio'>{t("header.precio")}</a></li>
+            <li className={liStyle}><a href='#us'>{t("header.nosotros")}</a></li>
         </ul>
         
     </div>

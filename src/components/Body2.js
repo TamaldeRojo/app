@@ -5,7 +5,7 @@ function Body2() {
   const [t] = useTranslation("global");
   return (
     <div className="body2 flex flex-col items-center justify-start px-[5rem] bg-[#AEB8FE] 
-    h-[90rem] pt-[18rem] mt-[-10rem] relative z-[2] rounded-b-[5rem]">
+    h-[90rem] pt-[18rem] mt-[-10rem] relative z-[2] rounded-b-[5rem]" id='body2'>
       {/* titld icon */}
       <img src={require("../imgs/logo.png")} alt="" className="w-[10rem]" />
       {/* heading */}

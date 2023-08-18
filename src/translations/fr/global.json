@@ -18,6 +18,13 @@
         "title2":"Expérience quotidienne de l'exercice"
     },
     "pricing":{
-        "title":"Utilisation de la technologie de reconnaissance"
+        "title":"Utilisation de la technologie de reconnaissance pour la détection et l'amélioration de l'exercice"
+    },
+    "us":{
+        "title":"L'équipe de développement",
+        "bis":"Les étudiants d'utch bis ont développé ensemble un système embarqué",
+        "descAlan":"",
+        "descJosue":"Je vise à être un développeur FullStack, ce n'était qu'un pas en avant",
+        "descHugo":""
     }
 }
